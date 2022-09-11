@@ -16,6 +16,7 @@
 			<option>Fish n Chips</option>
 			<option>Fish Burger</option>
 			<option>Chicken Burger</option>
+			<option>Spaghetti</option>
 
 		</select><br>Preferred Side:<select name="side">
 			<option>- select here -</option>
