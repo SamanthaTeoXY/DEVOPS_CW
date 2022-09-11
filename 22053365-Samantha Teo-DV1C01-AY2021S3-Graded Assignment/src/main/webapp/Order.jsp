@@ -14,6 +14,7 @@
 			<option>Chicken Cutlet Set</option>
 			<option>Chicken Chop</option>
 			<option>Fish n Chips</option>
+			<option>Fish Burger</option>
 		</select><br>Preferred Side:<select name="side">
 			<option>- select here -</option>
 			<option>French Fries</option>
