@@ -13,7 +13,7 @@
 			<option>- select here -</option>
 			<option>Chicken Cutlet Set</option>
 			<option>Chicken Chop</option>
-			<option>Fish n Chips</option>
+			<option>Spaghetti</option>
 			<option>Fish Burger</option>
 			<option>Chicken Burger</option>
 
